@@ -450,7 +450,7 @@ right: 10px;
         font-size: 5rem;
         position: absolute;
         right: 0;
-        top: 49%;
+        top: 40%;
         color: rgba(0, 0, 0, 0.753);
     
     }
@@ -461,7 +461,7 @@ right: 10px;
         font-size: 4rem;
         position: absolute;
         right: 0;
-        top: 68%;
+        top: 65%;
         color: rgba(0, 0, 0, 0.753);
     }
     
@@ -478,6 +478,8 @@ right: 10px;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
+    
+   
     
     aside #jordan2{
     color: rgba(255, 105, 180, 0.096);
