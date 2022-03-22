@@ -127,7 +127,7 @@ nav .menu{
     font-size: 8rem;
     position: absolute;
     right: 0;
-    top: 89%;
+    top: 90%;
     background: linear-gradient(to bottom,black 50%, white 50%);
     background-clip: text;
     z-index: 4;
