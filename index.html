@@ -73,9 +73,9 @@
 
     <h3>BURNA<p>boy.</p></h3>
 
- <button>
+ <button id="top">
      <p>
-        SPACESHIP
+        TO THE TOP
     </p>
     
     <img src="/rocket.svg" alt="" srcset="">
@@ -111,6 +111,14 @@
   <script src="circletype.min.js">  </script>
 <script>
     new CircleType(document.getElementById('odogwu'));
+</script>
+
+<script>
+ let topid= document.querySelector('#top')
+ topid.addEventListener('click', ()=>{
+     window.scrollTo(0,0)
+ })
+
 </script>
 </body>
 </html>
