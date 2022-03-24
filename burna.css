@@ -127,7 +127,7 @@ nav .menu{
     font-size: 8rem;
     position: absolute;
     right: 0;
-    top: 84.7%;
+    top: 84.9%;
     background: linear-gradient(to bottom,black 50%, white 50%);
     background-clip: text;
     z-index: 4;
@@ -234,7 +234,7 @@ left: -200px;
 
 .last-container button{
 position: absolute;
-top: 84.7%;
+top: 84.3%;
 right: 14px;
     background-color: black;
     color: rgba(255, 255, 255, 0.822);
